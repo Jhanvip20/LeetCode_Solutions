@@ -37,4 +37,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0806-domino-and-tromino-tiling](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0806-domino-and-tromino-tiling) |
 <!---LeetCode Topics End-->
