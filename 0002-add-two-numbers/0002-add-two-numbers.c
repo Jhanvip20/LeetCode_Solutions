@@ -6,7 +6,7 @@
 //     int val;
 //     struct ListNode* next;
 // };
-
+// C code 
 struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
     struct ListNode dummy = {0, NULL}; // Dummy node to simplify result list handling
     struct ListNode* current = &dummy; // Pointer to build the result list
