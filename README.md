@@ -29,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 ## Greedy
 |  |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Backtracking
 |  |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
