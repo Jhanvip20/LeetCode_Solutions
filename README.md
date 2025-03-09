@@ -58,6 +58,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Backtracking
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Search
 |  |
 | ------- |
