@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -50,6 +51,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
@@ -110,4 +112,5 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
