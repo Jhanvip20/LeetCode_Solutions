@@ -12,6 +12,7 @@
 | [0016-3sum-closest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3483-alternating-groups-ii) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
