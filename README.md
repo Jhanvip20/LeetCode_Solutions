@@ -43,6 +43,7 @@
 | [0007-reverse-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
+| [0227-basic-calculator-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -80,6 +81,7 @@
 | [0010-regular-expression-matching](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0227-basic-calculator-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0408-valid-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
@@ -139,6 +141,7 @@
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Counting
 |  |
