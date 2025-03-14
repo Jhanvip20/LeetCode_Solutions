@@ -172,12 +172,14 @@
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0339-nested-list-weight-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Prefix Sum
 |  |
