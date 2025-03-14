@@ -46,6 +46,7 @@
 | [0007-reverse-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0227-basic-calculator-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
