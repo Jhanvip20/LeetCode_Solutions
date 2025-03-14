@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -32,6 +33,7 @@
 | [0012-integer-to-roman](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0560-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -187,6 +189,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [3643-zero-array-transformation-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
