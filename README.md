@@ -10,6 +10,7 @@
 | [0011-container-with-most-water](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -63,6 +64,7 @@
 | [0011-container-with-most-water](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0408-valid-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -141,6 +143,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Stack
