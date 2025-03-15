@@ -34,6 +34,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0266-palindrome-permutation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0266-palindrome-permutation) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0560-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
@@ -100,6 +101,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
+| [0266-palindrome-permutation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0266-palindrome-permutation) |
 | [0408-valid-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0975-range-sum-of-bst) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0266-palindrome-permutation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0266-palindrome-permutation) |
 <!---LeetCode Topics End-->
