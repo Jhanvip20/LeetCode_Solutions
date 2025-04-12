@@ -225,6 +225,7 @@
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0339-nested-list-weight-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0975-range-sum-of-bst) |
@@ -234,6 +235,7 @@
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0339-nested-list-weight-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
@@ -291,10 +293,12 @@
 ## Union Find
 |  |
 | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
