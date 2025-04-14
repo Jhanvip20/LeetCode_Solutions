@@ -20,6 +20,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1656-count-good-triplets](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1656-count-good-triplets) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1909-buildings-with-an-ocean-view](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -315,6 +316,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3548-find-the-count-of-good-integers) |
