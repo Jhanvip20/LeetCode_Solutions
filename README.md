@@ -37,6 +37,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -118,6 +119,7 @@
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
 |  |
@@ -174,6 +176,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
@@ -214,6 +217,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
 | ------- |
