@@ -136,6 +136,7 @@
 | [0010-regular-expression-matching](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0266-palindrome-permutation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0266-palindrome-permutation) |
