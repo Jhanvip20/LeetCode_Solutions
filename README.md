@@ -19,6 +19,7 @@
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1656-count-good-triplets](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1656-count-good-triplets) |
@@ -59,6 +60,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -87,6 +89,7 @@
 | [0050-powx-n](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0227-basic-calculator-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -126,6 +129,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 ## String
 |  |
 | ------- |
