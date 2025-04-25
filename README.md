@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
@@ -182,6 +183,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0162-find-peak-element) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -214,6 +216,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0317-shortest-distance-from-all-buildings) |
 | [3227-find-missing-and-repeated-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
@@ -254,6 +257,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0339-nested-list-weight-sum) |
@@ -263,6 +267,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
