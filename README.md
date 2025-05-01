@@ -18,6 +18,7 @@
 | [0311-sparse-matrix-multiplication](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0311-sparse-matrix-multiplication) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0353-design-snake-game](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0353-design-snake-game) |
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +72,7 @@
 | [0311-sparse-matrix-multiplication](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0311-sparse-matrix-multiplication) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0353-design-snake-game](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0353-design-snake-game) |
 | [0560-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
@@ -228,6 +230,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0353-design-snake-game](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0353-design-snake-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
@@ -326,6 +329,7 @@
 ## Design
 |  |
 | ------- |
+| [0353-design-snake-game](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0353-design-snake-game) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Monotonic Stack
 |  |
@@ -347,6 +351,7 @@
 ## Queue
 |  |
 | ------- |
+| [0353-design-snake-game](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0353-design-snake-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
