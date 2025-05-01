@@ -28,6 +28,7 @@
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1909-buildings-with-an-ocean-view](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -145,6 +146,7 @@
 | [0011-container-with-most-water](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## String
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -246,6 +249,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
@@ -340,6 +344,7 @@
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
@@ -389,5 +394,6 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
