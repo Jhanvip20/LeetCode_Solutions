@@ -15,6 +15,7 @@
 | [0162-find-peak-element](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
+| [0311-sparse-matrix-multiplication](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0311-sparse-matrix-multiplication) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
@@ -67,6 +68,7 @@
 | [0012-integer-to-roman](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0266-palindrome-permutation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0266-palindrome-permutation) |
+| [0311-sparse-matrix-multiplication](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0311-sparse-matrix-multiplication) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
+| [0311-sparse-matrix-multiplication](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0311-sparse-matrix-multiplication) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0317-shortest-distance-from-all-buildings) |
 | [3227-find-missing-and-repeated-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
