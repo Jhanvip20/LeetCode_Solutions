@@ -97,6 +97,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Linked List
 |  |
@@ -126,6 +127,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
@@ -183,6 +185,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
@@ -238,6 +241,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Simulation
 |  |
@@ -283,6 +287,7 @@
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Tree
 |  |
 | ------- |
