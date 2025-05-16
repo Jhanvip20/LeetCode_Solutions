@@ -54,6 +54,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -188,6 +189,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -248,6 +250,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [2262-solving-questions-with-brainpower](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
