@@ -29,6 +29,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1366-first-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1366-first-unique-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1656-count-good-triplets) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -88,6 +89,7 @@
 | [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1366-first-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1366-first-unique-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1500-count-largest-group) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -376,6 +378,7 @@
 |  |
 | ------- |
 | [0353-design-snake-game](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0353-design-snake-game) |
+| [1366-first-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1366-first-unique-number) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Monotonic Stack
 |  |
@@ -398,6 +401,7 @@
 |  |
 | ------- |
 | [0353-design-snake-game](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0353-design-snake-game) |
+| [1366-first-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1366-first-unique-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -458,4 +462,8 @@
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Data Stream
+|  |
+| ------- |
+| [1366-first-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1366-first-unique-number) |
 <!---LeetCode Topics End-->
