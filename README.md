@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
