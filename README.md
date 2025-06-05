@@ -196,6 +196,7 @@
 | [0266-palindrome-permutation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0266-palindrome-permutation) |
 | [0408-valid-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -419,6 +420,7 @@
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
