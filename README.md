@@ -336,6 +336,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0339-nested-list-weight-sum) |
+| [0386-lexicographical-numbers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -482,4 +483,8 @@
 |  |
 | ------- |
 | [1366-first-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1366-first-unique-number) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
