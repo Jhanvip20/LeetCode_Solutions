@@ -16,6 +16,7 @@
 | [0135-candy](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0311-sparse-matrix-multiplication](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0311-sparse-matrix-multiplication) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0317-shortest-distance-from-all-buildings) |
@@ -149,6 +150,7 @@
 | [0002-add-two-numbers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0050-powx-n) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [2050-count-good-numbers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -313,6 +315,7 @@
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1909-buildings-with-an-ocean-view](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Counting
@@ -326,6 +329,7 @@
 ## Tree
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0975-range-sum-of-bst) |
@@ -357,6 +361,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0975-range-sum-of-bst) |
@@ -398,10 +403,12 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [1909-buildings-with-an-ocean-view](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0975-range-sum-of-bst) |
 ## Bit Manipulation
 |  |
