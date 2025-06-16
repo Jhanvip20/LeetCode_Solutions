@@ -338,6 +338,7 @@
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0663-equal-tree-partition](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0663-equal-tree-partition) |
 | [0975-range-sum-of-bst](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -351,6 +352,7 @@
 | [0339-nested-list-weight-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0339-nested-list-weight-sum) |
 | [0386-lexicographical-numbers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0663-equal-tree-partition](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0663-equal-tree-partition) |
 | [0975-range-sum-of-bst](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -370,6 +372,7 @@
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0663-equal-tree-partition](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0663-equal-tree-partition) |
 | [0975-range-sum-of-bst](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
