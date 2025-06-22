@@ -26,6 +26,7 @@
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
 | [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -402,6 +404,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -442,6 +445,7 @@
 |  |
 | ------- |
 | [0353-design-snake-game](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0353-design-snake-game) |
+| [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
 | [1366-first-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1366-first-unique-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -485,10 +489,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
@@ -497,10 +503,12 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Shortest Path
