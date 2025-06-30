@@ -91,6 +91,7 @@
 | [0001-two-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0266-palindrome-permutation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0266-palindrome-permutation) |
 | [0311-sparse-matrix-multiplication](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0311-sparse-matrix-multiplication) |
@@ -136,6 +137,7 @@
 | [0007-reverse-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0227-basic-calculator-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
@@ -218,6 +220,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
