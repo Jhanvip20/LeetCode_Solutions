@@ -303,6 +303,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0333-largest-bst-subtree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0333-largest-bst-subtree) |
 | [0361-bomb-enemy](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0361-bomb-enemy) |
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -384,6 +385,7 @@
 | ------- |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0333-largest-bst-subtree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0333-largest-bst-subtree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0663-equal-tree-partition) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -397,6 +399,7 @@
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0333-largest-bst-subtree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0333-largest-bst-subtree) |
 | [0339-nested-list-weight-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0339-nested-list-weight-sum) |
 | [0386-lexicographical-numbers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -420,6 +423,7 @@
 | ------- |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0333-largest-bst-subtree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0333-largest-bst-subtree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0663-equal-tree-partition) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -471,6 +475,7 @@
 |  |
 | ------- |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0333-largest-bst-subtree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0333-largest-bst-subtree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0975-range-sum-of-bst](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0975-range-sum-of-bst) |
 ## Bit Manipulation
