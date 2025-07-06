@@ -35,6 +35,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1366-first-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1366-first-unique-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1656-count-good-triplets) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -107,6 +108,7 @@
 | [1366-first-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1366-first-unique-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -377,6 +379,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
