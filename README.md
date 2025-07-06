@@ -40,6 +40,7 @@
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1909-buildings-with-an-ocean-view](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -108,6 +109,7 @@
 | [1500-count-largest-group](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1500-count-largest-group) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -468,6 +470,7 @@
 | [0353-design-snake-game](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0353-design-snake-game) |
 | [1366-first-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1366-first-unique-number) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
