@@ -261,6 +261,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3396-valid-word](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3396-valid-word) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3618-find-the-original-typed-string-ii) |
