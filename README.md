@@ -25,6 +25,7 @@
 | [0361-bomb-enemy](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0361-bomb-enemy) |
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0425-word-squares](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0425-word-squares) |
 | [0560-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
@@ -250,6 +251,7 @@
 | [0227-basic-calculator-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0266-palindrome-permutation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0266-palindrome-permutation) |
 | [0408-valid-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0408-valid-word-abbreviation) |
+| [0425-word-squares](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0425-word-squares) |
 | [0680-valid-palindrome-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
@@ -276,6 +278,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0425-word-squares](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0425-word-squares) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Sliding Window
@@ -614,6 +617,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0386-lexicographical-numbers) |
+| [0425-word-squares](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0425-word-squares) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Memoization
 |  |
