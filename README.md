@@ -101,6 +101,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -500,6 +501,7 @@
 | [3618-find-the-original-typed-string-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -599,6 +601,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -609,6 +612,7 @@
 | ------- |
 | [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
