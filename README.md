@@ -26,6 +26,7 @@
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0425-word-squares](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0425-word-squares) |
+| [0527-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0527-word-abbreviation) |
 | [0560-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
@@ -225,6 +226,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0135-candy) |
+| [0527-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0527-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -259,6 +261,7 @@
 | [0266-palindrome-permutation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0266-palindrome-permutation) |
 | [0408-valid-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0408-valid-word-abbreviation) |
 | [0425-word-squares](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0425-word-squares) |
+| [0527-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0527-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
@@ -395,6 +398,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
+| [0527-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0527-word-abbreviation) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -635,6 +639,7 @@
 | [0386-lexicographical-numbers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0425-word-squares](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0425-word-squares) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0527-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0527-word-abbreviation) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Memoization
