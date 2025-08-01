@@ -32,6 +32,7 @@
 | [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
 | [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -354,6 +355,7 @@
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0806-domino-and-tromino-tiling) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -549,6 +551,7 @@
 |  |
 | ------- |
 | [0266-palindrome-permutation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0266-palindrome-permutation) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
