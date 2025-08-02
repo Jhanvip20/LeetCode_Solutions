@@ -78,6 +78,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2689-rearranging-fruits](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -139,6 +140,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
@@ -244,6 +246,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -418,6 +421,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3647-zero-array-transformation-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3647-zero-array-transformation-iii) |
