@@ -210,6 +210,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3830-find-closest-person](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
