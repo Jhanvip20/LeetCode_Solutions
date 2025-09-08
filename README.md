@@ -181,6 +181,7 @@
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
