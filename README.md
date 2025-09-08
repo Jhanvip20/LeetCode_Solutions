@@ -37,6 +37,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1067-campus-bikes-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1067-campus-bikes-ii) |
+| [1098-largest-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1098-largest-unique-number) |
 | [1293-three-consecutive-odds](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -130,6 +131,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1098-largest-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1098-largest-unique-number) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1366-first-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1366-first-unique-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -429,6 +431,7 @@
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0527-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0527-word-abbreviation) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1098-largest-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1098-largest-unique-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
