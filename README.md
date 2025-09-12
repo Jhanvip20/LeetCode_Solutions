@@ -206,6 +206,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -309,6 +310,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3396-valid-word](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -727,6 +729,7 @@
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -740,4 +743,8 @@
 |  |
 | ------- |
 | [1067-campus-bikes-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1067-campus-bikes-ii) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
