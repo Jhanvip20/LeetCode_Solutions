@@ -70,6 +70,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -199,6 +200,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -436,6 +438,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 ## Sorting
@@ -476,6 +479,7 @@
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1909-buildings-with-an-ocean-view](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1909-buildings-with-an-ocean-view) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Counting
 |  |
 | ------- |
