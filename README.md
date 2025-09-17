@@ -39,6 +39,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1067-campus-bikes-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1067-campus-bikes-ii) |
 | [1098-largest-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1098-largest-unique-number) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -366,6 +367,7 @@
 | [0162-find-peak-element](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
