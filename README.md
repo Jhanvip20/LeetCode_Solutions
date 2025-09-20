@@ -120,6 +120,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3827-implement-router](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [3678-design-task-manager](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3827-implement-router](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -381,6 +383,7 @@
 | [2690-house-robber-iv](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3827-implement-router](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -599,6 +602,7 @@
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3678-design-task-manager](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3827-implement-router) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -641,6 +645,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3827-implement-router) |
 ## Union Find
 |  |
 | ------- |
@@ -706,6 +711,7 @@
 | [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3678-design-task-manager](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
