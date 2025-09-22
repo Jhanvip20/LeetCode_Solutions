@@ -102,6 +102,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -164,6 +165,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -496,6 +498,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
