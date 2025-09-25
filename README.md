@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -402,6 +403,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0120-triangle) |
 | [0333-largest-bst-subtree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0333-largest-bst-subtree) |
 | [0361-bomb-enemy](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0361-bomb-enemy) |
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
