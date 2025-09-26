@@ -32,6 +32,7 @@
 | [0527-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0527-word-abbreviation) |
 | [0560-subarray-sum-equals-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
 | [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
@@ -254,6 +255,7 @@
 | [0165-compare-version-numbers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0408-valid-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0408-valid-word-abbreviation) |
+| [0611-valid-triangle-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -271,6 +273,7 @@
 | [0011-container-with-most-water](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0135-candy) |
 | [0527-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0527-word-abbreviation) |
+| [0611-valid-triangle-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -376,6 +379,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
+| [0611-valid-triangle-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -468,6 +472,7 @@
 | [0368-largest-divisible-subset](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0527-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0527-word-abbreviation) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [1098-largest-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1098-largest-unique-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
