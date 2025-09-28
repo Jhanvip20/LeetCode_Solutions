@@ -39,6 +39,7 @@
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1006-vowel-spellchecker](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1067-campus-bikes-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1067-campus-bikes-ii) |
 | [1098-largest-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1098-largest-unique-number) |
@@ -204,6 +205,7 @@
 | [0830-largest-triangle-area](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0867-new-21-game) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
+| [1018-largest-perimeter-triangle](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -280,6 +282,7 @@
 | [0611-valid-triangle-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -478,6 +481,7 @@
 | [0527-word-abbreviation](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0527-word-abbreviation) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1098-largest-unique-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1098-largest-unique-number) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
