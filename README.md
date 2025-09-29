@@ -46,6 +46,7 @@
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1118-divide-array-into-increasing-sequences](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1118-divide-array-into-increasing-sequences) |
 | [1293-three-consecutive-odds](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -515,6 +516,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1118-divide-array-into-increasing-sequences](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1118-divide-array-into-increasing-sequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
