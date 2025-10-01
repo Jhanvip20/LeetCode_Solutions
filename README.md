@@ -129,6 +129,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3797-design-spreadsheet](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
@@ -183,6 +184,7 @@
 | [3678-design-task-manager](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -352,6 +354,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
@@ -464,6 +467,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3797-design-spreadsheet](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3797-design-spreadsheet) |
 ## Number Theory
 |  |
 | ------- |
@@ -632,6 +636,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3827-implement-router) |
 ## Monotonic Stack
 |  |
