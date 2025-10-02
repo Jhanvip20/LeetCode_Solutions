@@ -232,6 +232,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-water-bottles-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -455,6 +456,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [3336-water-bottles-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
