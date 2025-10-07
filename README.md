@@ -58,6 +58,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1656-count-good-triplets) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -160,6 +161,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1813-maximum-erasure-value](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1813-maximum-erasure-value) |
@@ -294,6 +296,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -401,6 +404,7 @@
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1612-avoid-flood-in-the-city](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -627,6 +631,7 @@
 | [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
 | [0794-swim-in-rising-water](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1612-avoid-flood-in-the-city](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
