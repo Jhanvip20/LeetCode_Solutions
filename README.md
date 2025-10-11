@@ -36,6 +36,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0683-k-empty-slots](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0683-k-empty-slots) |
+| [0788-minimize-max-distance-to-gas-station](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0788-minimize-max-distance-to-gas-station) |
 | [0794-swim-in-rising-water](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
@@ -405,6 +406,7 @@
 | [0162-find-peak-element](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0611-valid-triangle-number](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0611-valid-triangle-number) |
+| [0788-minimize-max-distance-to-gas-station](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0788-minimize-max-distance-to-gas-station) |
 | [0794-swim-in-rising-water](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0912-random-pick-with-weight](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
