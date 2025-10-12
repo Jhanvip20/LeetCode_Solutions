@@ -139,6 +139,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,6 +254,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -463,6 +465,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
 |  |
 | ------- |
@@ -705,6 +708,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Queue
 |  |
 | ------- |
@@ -744,6 +748,7 @@
 | [3216-distribute-candies-among-children-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3216-distribute-candies-among-children-iii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
@@ -840,6 +845,7 @@
 |  |
 | ------- |
 | [1067-campus-bikes-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1067-campus-bikes-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Game Theory
 |  |
 | ------- |
