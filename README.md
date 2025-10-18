@@ -125,6 +125,7 @@
 | [3483-alternating-groups-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -319,6 +320,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -538,6 +540,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Stack
 |  |
