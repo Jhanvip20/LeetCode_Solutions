@@ -258,6 +258,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
@@ -378,6 +379,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
@@ -492,6 +494,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
 |  |
@@ -514,6 +517,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -771,6 +775,7 @@
 | [3216-distribute-candies-among-children-iii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3216-distribute-candies-among-children-iii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
