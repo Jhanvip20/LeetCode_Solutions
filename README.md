@@ -62,6 +62,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1656-count-good-triplets) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1813-maximum-erasure-value](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1813-maximum-erasure-value) |
@@ -317,6 +318,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -471,6 +473,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1067-campus-bikes-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1067-campus-bikes-ii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -572,6 +575,7 @@
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1909-buildings-with-an-ocean-view](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Counting
@@ -718,6 +722,7 @@
 |  |
 | ------- |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1909-buildings-with-an-ocean-view](https://github.com/Jhanvip20/LeetCode_Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Binary Search Tree
 |  |
